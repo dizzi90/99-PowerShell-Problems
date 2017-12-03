@@ -46,7 +46,7 @@ Get-ElementofList -Number 3 -List @('a','b','c','d')
 # c
 ````
 
-### ☐ Problem 4: find the number of elements of a list
+### ️☑ Problem 4: find the number of elements of a list
 
 #### Example
 
