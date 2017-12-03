@@ -37,7 +37,7 @@ Get-PenultimateElementofList -List @('a','b','c','d')
 # c
 ````
 
-### ☐ Problem 3: find the K'th element of a list
+### ️️️️️️️️☑️ Problem 3: find the K'th element of a list
 
 #### Example
 
