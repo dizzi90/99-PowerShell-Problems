@@ -1,5 +1,5 @@
 ### Problem 2: find the last but one element of a list
-unction Get-PenultimateElementOfList
+function Get-PenultimateElementOfList
 {
 	[CmdLetBinding()]
 	Param
