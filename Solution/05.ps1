@@ -1,5 +1,5 @@
 ### Problem 5: reverse a list
-function Sort-ReverseOrder
+function Format-ReverseOrder
 {
 [CmdLetBinding()]
 	Param
