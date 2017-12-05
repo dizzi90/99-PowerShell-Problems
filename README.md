@@ -37,7 +37,7 @@ Get-PenultimateElementofList -List @('a','b','c','d')
 # c
 ````
 
-### ️️️️️️️️☑️ Problem 3: find the K'th element of a list
+### ☑️ Problem 3: find the K'th element of a list
 
 #### Example
 
@@ -46,7 +46,7 @@ Get-ElementofList -Number 3 -List @('a','b','c','d')
 # c
 ````
 
-### ️️️️️️️️☑️ Problem 4: find the number of elements of a list
+### ☑️ Problem 4: find the number of elements of a list
 
 #### Example
 
@@ -55,7 +55,7 @@ Get-LengthOfList -List @('a','b','c','d')
 # 4
 ````
 
-### ️️️️️️️️☑️ Problem 5: reverse a list
+### ☑️ Problem 5: reverse a list
 
 #### Example
 
@@ -67,7 +67,7 @@ Sort-ReverseOrder -List @('a', 'b', 'c', 'd')
 # a
 ````
 
-### ☐ Problem 6: find out whether a list is a palindrome
+### ☑️ Problem 6: find out whether a list is a palindrome
 
 #### Example
 
