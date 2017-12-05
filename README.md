@@ -76,7 +76,7 @@ Confirm-Palindrome -List @('a','b','b','a')
 # True
 ````
 
-### ☐ Problem 7: flatten a nested list structure
+### ☑️ Problem 7: flatten a nested list structure
 
 #### Example
 
